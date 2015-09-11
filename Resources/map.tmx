@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="60" height="40" tilewidth="16" tileheight="16" nextobjectid="154">
+
+ <tileset firstgid="1501" name="banlangenbg1" tilewidth="16" tileheight="16">
+  <image source="./banlangenbg1.png" width="800" height="480"/>
+ </tileset>
+ <layer name="块层 1" width="60" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztmEEOgCAMBLn4/xf6F+PVEy3bssGZhBPtykAi0TEAariv3SvoZcb3rVGOqmyV707U68PXKx9frzx1/t991XeF+k6Yve8ycxkczhffWH8EfPvz8V2fU/ao8/Fdn1P2RHrdfFfAV1+DbyxbSYdvRV8WfOtqIn2d338Zl5POtzIH31rw7c3Bt5bv81b+6bmMiK9q31zBd29ONU6+kQynd0KH7wng68MDN1f9Xw==
+  </data>
+ </layer>
+ <objectgroup name="obj">
+  <object id="76" x="896" y="16">
+   <ellipse/>
+  </object>
+  <object id="77" x="752" y="112">
+   <ellipse/>
+  </object>
+  <object id="78" x="576" y="96">
+   <ellipse/>
+  </object>
+  <object id="79" x="656" y="144">
+   <ellipse/>
+  </object>
+  <object id="80" x="848" y="128">
+   <ellipse/>
+  </object>
+  <object id="81" x="848" y="224">
+   <ellipse/>
+  </object>
+  <object id="82" x="752" y="224">
+   <ellipse/>
+  </object>
+  <object id="83" x="688" y="320">
+   <ellipse/>
+  </object>
+  <object id="84" x="608" y="256">
+   <ellipse/>
+  </object>
+  <object id="85" x="560" y="192">
+   <ellipse/>
+  </object>
+  <object id="86" x="544" y="288">
+   <ellipse/>
+  </object>
+  <object id="87" x="608" y="352">
+   <ellipse/>
+  </object>
+  <object id="88" x="480" y="368">
+   <ellipse/>
+  </object>
+  <object id="89" x="432" y="240">
+   <ellipse/>
+  </object>
+  <object id="90" x="400" y="304">
+   <ellipse/>
+  </object>
+  <object id="91" x="352" y="224">
+   <ellipse/>
+  </object>
+  <object id="92" x="256" y="224">
+   <ellipse/>
+  </object>
+  <object id="93" x="240" y="320">
+   <ellipse/>
+  </object>
+  <object id="94" x="256" y="400">
+   <ellipse/>
+  </object>
+  <object id="95" x="176" y="400">
+   <ellipse/>
+  </object>
+  <object id="96" x="256" y="464">
+   <ellipse/>
+  </object>
+  <object id="97" x="208" y="464">
+   <ellipse/>
+  </object>
+  <object id="98" x="112" y="480">
+   <ellipse/>
+  </object>
+  <object id="99" x="128" y="400">
+   <ellipse/>
+  </object>
+  <object id="100" x="96" y="352">
+   <ellipse/>
+  </object>
+  <object id="101" x="160" y="336">
+   <ellipse/>
+  </object>
+  <object id="102" x="144" y="256">
+   <ellipse/>
+  </object>
+  <object id="103" x="128" y="176">
+   <ellipse/>
+  </object>
+  <object id="104" x="112" y="128">
+   <ellipse/>
+  </object>
+  <object id="105" x="32" y="320">
+   <ellipse/>
+  </object>
+  <object id="106" x="32" y="384">
+   <ellipse/>
+  </object>
+  <object id="107" x="32" y="496">
+   <ellipse/>
+  </object>
+  <object id="108" x="32" y="624">
+   <ellipse/>
+  </object>
+  <object id="109" x="80" y="624">
+   <ellipse/>
+  </object>
+  <object id="110" x="176" y="576">
+   <ellipse/>
+  </object>
+  <object id="111" x="112" y="560">
+   <ellipse/>
+  </object>
+  <object id="112" x="272" y="560">
+   <ellipse/>
+  </object>
+  <object id="113" x="320" y="608">
+   <ellipse/>
+  </object>
+  <object id="114" x="416" y="560">
+   <ellipse/>
+  </object>
+  <object id="115" x="528" y="624">
+   <ellipse/>
+  </object>
+  <object id="116" x="576" y="544">
+   <ellipse/>
+  </object>
+  <object id="117" x="704" y="560">
+   <ellipse/>
+  </object>
+  <object id="118" x="720" y="480">
+   <ellipse/>
+  </object>
+  <object id="119" x="688" y="432">
+   <ellipse/>
+  </object>
+  <object id="120" x="672" y="464">
+   <ellipse/>
+  </object>
+  <object id="121" x="592" y="464">
+   <ellipse/>
+  </object>
+  <object id="122" x="528" y="480">
+   <ellipse/>
+  </object>
+  <object id="123" x="416" y="480">
+   <ellipse/>
+  </object>
+  <object id="124" x="352" y="432">
+   <ellipse/>
+  </object>
+  <object id="125" x="352" y="384">
+   <ellipse/>
+  </object>
+  <object id="126" x="336" y="288">
+   <ellipse/>
+  </object>
+  <object id="127" x="816" y="432">
+   <ellipse/>
+  </object>
+  <object id="128" x="800" y="336">
+   <ellipse/>
+  </object>
+  <object id="129" x="848" y="336">
+   <ellipse/>
+  </object>
+  <object id="130" x="784" y="560">
+   <ellipse/>
+  </object>
+  <object id="131" x="896" y="560">
+   <ellipse/>
+  </object>
+  <object id="132" x="944" y="560">
+   <ellipse/>
+  </object>
+  <object id="133" x="912" y="608">
+   <ellipse/>
+  </object>
+  <object id="134" x="816" y="624">
+   <ellipse/>
+  </object>
+  <object id="135" x="704" y="624">
+   <ellipse/>
+  </object>
+  <object id="136" x="944" y="448">
+   <ellipse/>
+  </object>
+  <object id="137" x="944" y="320">
+   <ellipse/>
+  </object>
+  <object id="138" x="944" y="208">
+   <ellipse/>
+  </object>
+  <object id="139" x="912" y="240">
+   <ellipse/>
+  </object>
+  <object id="140" x="944" y="128">
+   <ellipse/>
+  </object>
+  <object id="141" x="928" y="80">
+   <ellipse/>
+  </object>
+  <object id="142" x="576" y="32">
+   <ellipse/>
+  </object>
+  <object id="143" x="464" y="112">
+   <ellipse/>
+  </object>
+  <object id="144" x="384" y="128">
+   <ellipse/>
+  </object>
+  <object id="145" x="304" y="128">
+   <ellipse/>
+  </object>
+  <object id="146" x="240" y="112">
+   <ellipse/>
+  </object>
+  <object id="147" x="416" y="32">
+   <ellipse/>
+  </object>
+  <object id="148" x="320" y="32">
+   <ellipse/>
+  </object>
+  <object id="149" x="240" y="32">
+   <ellipse/>
+  </object>
+  <object id="150" x="144" y="32">
+   <ellipse/>
+  </object>
+  <object id="151" x="32" y="48">
+   <ellipse/>
+  </object>
+  <object id="152" x="16" y="112">
+   <ellipse/>
+  </object>
+  <object id="153" x="32" y="176" height="16">
+   <ellipse/>
+  </object>
+ </objectgroup>
+</map>
